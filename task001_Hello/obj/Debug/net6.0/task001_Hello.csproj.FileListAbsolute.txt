@@ -1,0 +1,15 @@
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\bin\Debug\net6.0\task001_Hello.exe
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\bin\Debug\net6.0\task001_Hello.deps.json
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\bin\Debug\net6.0\task001_Hello.runtimeconfig.json
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\bin\Debug\net6.0\task001_Hello.dll
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\bin\Debug\net6.0\ref\task001_Hello.dll
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\bin\Debug\net6.0\task001_Hello.pdb
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\task001_Hello.csproj.AssemblyReference.cache
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\task001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\task001_Hello.AssemblyInfoInputs.cache
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\task001_Hello.AssemblyInfo.cs
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\task001_Hello.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\task001_Hello.dll
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\ref\task001_Hello.dll
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\task001_Hello.pdb
+C:\Users\ASUS.LAPTOP-DMEQ6NQO\Documents\обучение\язык програмирования С#\Les\Lessen\task001_Hello\obj\Debug\net6.0\task001_Hello.genruntimeconfig.cache
